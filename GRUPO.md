@@ -4,6 +4,6 @@
 |---|---|---|
 | | | Hugo |
 | | | Leo |
-| | | Alfonso |
+| Alfonso Párraga | alpecha | |
 
 Los papeles rotan en cada reto.
