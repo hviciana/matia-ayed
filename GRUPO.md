@@ -1,4 +1,4 @@
-# Grupo N
+# Grupo Nº4
 
 | Nombre | Usuario de GitHub | Papel en el reto 1 |
 |---|---|---|
